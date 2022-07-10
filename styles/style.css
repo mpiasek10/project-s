@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+
+nav ul {
+    background-color: blanchedalmond;
+    list-style: none;
+    margin: 0 auto;
+    padding: 0.5em;
+    display: flex;
+    width: 90%;
+    max-width: 1600px;
+}
+
+nav li {
+    margin: 0 1em;
+}
+
+li.logo {
+    margin-right: auto;
+}
